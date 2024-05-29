@@ -1,0 +1,2839 @@
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 22 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:44:28] [Info] Loading plugin: crashdetect
+[12:44:28] [Info]   CrashDetect plugin 4.21
+[12:44:28] [Info] Loading plugin: streamer
+[12:44:28] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:44:28] [Info] Loading plugin: sscanf
+[12:44:28] [Info] 
+[12:44:28] [Info]  ===============================
+[12:44:28] [Info] 
+[12:44:28] [Info]       sscanf plugin loaded.     
+[12:44:28] [Info] 
+[12:44:28] [Info]          Version: 2.13.8
+[12:44:28] [Info] 
+[12:44:28] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:44:28] [Info] 
+[12:44:28] [Info]  ===============================
+[12:44:28] [Info] 
+[12:44:28] [Info] Loading plugin: mysql
+[12:44:28] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:44:28] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:44:28] [Info] Loading plugin: pawn-memory
+[12:44:28] [Info] ========================
+[12:44:28] [Info] = Memory access plugin =
+[12:44:28] [Info] =       Made by BigETI =
+[12:44:28] [Info] = Loaded!              =
+[12:44:28] [Info] ========================
+[12:44:28] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:44:28] [Error] Function not registered: PC_EmulateCommand
+[12:44:28] [Error] Function not registered: PC_RegAlias
+[12:44:28] [Error] Function not registered: PC_Init
+[12:44:28] [Info] [debug] Run time error 19: "File or function is not found"
+[12:44:28] [Info] [debug]  PC_Init
+[12:44:28] [Info] [debug]  PC_RegAlias
+[12:44:28] [Info] [debug]  PC_EmulateCommand
+[12:44:28] [Error] File or function is not found
+[12:44:28] [Info] [debug] Run time error 19: "File or function is not found"
+[12:44:28] [Info] [debug]  PC_Init
+[12:44:28] [Info] [debug]  PC_RegAlias
+[12:44:28] [Info] [debug]  PC_EmulateCommand
+[12:44:28] [Info] Legacy Network started on port 7777
+[12:44:34] [Info] [debug] Run time error 19: "File or function is not found"
+[12:44:34] [Info] [debug]  PC_Init
+[12:44:34] [Info] [debug]  PC_RegAlias
+[12:44:34] [Info] [debug]  PC_EmulateCommand
+[12:44:34] [Error] File or function is not found
+[12:44:34] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:44:34] [Info] 
+[12:44:34] [Info]  ===============================
+[12:44:34] [Info] 
+[12:44:34] [Info]      sscanf plugin unloaded.    
+[12:44:34] [Info] 
+[12:44:34] [Info]  ===============================
+[12:44:34] [Info] 
+[12:44:34] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 22 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:44:51] [Info] Loading plugin: crashdetect
+[12:44:51] [Info]   CrashDetect plugin 4.21
+[12:44:51] [Info] Loading plugin: streamer
+[12:44:51] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:44:51] [Info] Loading plugin: sscanf
+[12:44:51] [Info] 
+[12:44:51] [Info]  ===============================
+[12:44:51] [Info] 
+[12:44:51] [Info]       sscanf plugin loaded.     
+[12:44:51] [Info] 
+[12:44:51] [Info]          Version: 2.13.8
+[12:44:51] [Info] 
+[12:44:51] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:44:51] [Info] 
+[12:44:51] [Info]  ===============================
+[12:44:51] [Info] 
+[12:44:51] [Info] Loading plugin: mysql
+[12:44:51] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:44:51] [Info] Loading plugin: pawn-memory
+[12:44:51] [Info] ========================
+[12:44:51] [Info] = Memory access plugin =
+[12:44:51] [Info] =       Made by BigETI =
+[12:44:51] [Info] = Loaded!              =
+[12:44:51] [Info] ========================
+[12:44:51] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:44:51] [Error] Function not registered: PC_EmulateCommand
+[12:44:51] [Error] Function not registered: PC_RegAlias
+[12:44:51] [Error] Function not registered: PC_Init
+[12:44:51] [Info] [debug] Run time error 19: "File or function is not found"
+[12:44:51] [Info] [debug]  PC_Init
+[12:44:51] [Info] [debug]  PC_RegAlias
+[12:44:51] [Info] [debug]  PC_EmulateCommand
+[12:44:51] [Error] File or function is not found
+[12:44:51] [Info] [debug] Run time error 19: "File or function is not found"
+[12:44:51] [Info] [debug]  PC_Init
+[12:44:51] [Info] [debug]  PC_RegAlias
+[12:44:51] [Info] [debug]  PC_EmulateCommand
+[12:44:51] [Info] Legacy Network started on port 7777
+[12:44:57] [Info] [debug] Run time error 19: "File or function is not found"
+[12:44:57] [Info] [debug]  PC_Init
+[12:44:57] [Info] [debug]  PC_RegAlias
+[12:44:57] [Info] [debug]  PC_EmulateCommand
+[12:44:57] [Error] File or function is not found
+[12:44:57] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:44:57] [Info] 
+[12:44:57] [Info]  ===============================
+[12:44:57] [Info] 
+[12:44:57] [Info]      sscanf plugin unloaded.    
+[12:44:57] [Info] 
+[12:44:57] [Info]  ===============================
+[12:44:57] [Info] 
+[12:44:57] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 22 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:45:49] [Info] Loading plugin: crashdetect
+[12:45:49] [Info]   CrashDetect plugin 4.21
+[12:45:49] [Info] Loading plugin: streamer
+[12:45:49] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:45:49] [Info] Loading plugin: sscanf
+[12:45:49] [Info] 
+[12:45:49] [Info]  ===============================
+[12:45:49] [Info] 
+[12:45:49] [Info]       sscanf plugin loaded.     
+[12:45:49] [Info] 
+[12:45:49] [Info]          Version: 2.13.8
+[12:45:49] [Info] 
+[12:45:49] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:45:49] [Info] 
+[12:45:49] [Info]  ===============================
+[12:45:49] [Info] 
+[12:45:49] [Info] Loading plugin: mysql
+[12:45:49] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:45:49] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:45:49] [Info] Loading plugin: pawn-memory
+[12:45:49] [Info] ========================
+[12:45:49] [Info] = Memory access plugin =
+[12:45:49] [Info] =       Made by BigETI =
+[12:45:49] [Info] = Loaded!              =
+[12:45:49] [Info] ========================
+[12:45:49] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:45:49] [Error] Function not registered: PC_EmulateCommand
+[12:45:49] [Error] Function not registered: PC_RegAlias
+[12:45:49] [Error] Function not registered: PC_Init
+[12:45:49] [Info] [debug] Run time error 19: "File or function is not found"
+[12:45:49] [Info] [debug]  PC_Init
+[12:45:49] [Info] [debug]  PC_RegAlias
+[12:45:49] [Info] [debug]  PC_EmulateCommand
+[12:45:49] [Error] File or function is not found
+[12:45:49] [Info] [debug] Run time error 19: "File or function is not found"
+[12:45:49] [Info] [debug]  PC_Init
+[12:45:49] [Info] [debug]  PC_RegAlias
+[12:45:49] [Info] [debug]  PC_EmulateCommand
+[12:45:49] [Info] Legacy Network started on port 7777
+[12:45:52] [Info] [debug] Run time error 19: "File or function is not found"
+[12:45:52] [Info] [debug]  PC_Init
+[12:45:52] [Info] [debug]  PC_RegAlias
+[12:45:52] [Info] [debug]  PC_EmulateCommand
+[12:45:52] [Error] File or function is not found
+[12:45:52] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:45:52] [Info] 
+[12:45:52] [Info]  ===============================
+[12:45:52] [Info] 
+[12:45:52] [Info]      sscanf plugin unloaded.    
+[12:45:52] [Info] 
+[12:45:52] [Info]  ===============================
+[12:45:52] [Info] 
+[12:45:52] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 22 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:45:58] [Info] Loading plugin: crashdetect
+[12:45:58] [Info]   CrashDetect plugin 4.21
+[12:45:58] [Info] Loading plugin: streamer
+[12:45:58] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:45:58] [Info] Loading plugin: sscanf
+[12:45:58] [Info] 
+[12:45:58] [Info]  ===============================
+[12:45:58] [Info] 
+[12:45:58] [Info]       sscanf plugin loaded.     
+[12:45:58] [Info] 
+[12:45:58] [Info]          Version: 2.13.8
+[12:45:58] [Info] 
+[12:45:58] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:45:58] [Info] 
+[12:45:58] [Info]  ===============================
+[12:45:58] [Info] 
+[12:45:58] [Info] Loading plugin: mysql
+[12:45:59] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:45:59] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:45:59] [Info] Loading plugin: pawn-memory
+[12:45:59] [Info] ========================
+[12:45:59] [Info] = Memory access plugin =
+[12:45:59] [Info] =       Made by BigETI =
+[12:45:59] [Info] = Loaded!              =
+[12:45:59] [Info] ========================
+[12:45:59] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:45:59] [Error] Function not registered: PC_EmulateCommand
+[12:45:59] [Error] Function not registered: PC_RegAlias
+[12:45:59] [Error] Function not registered: PC_Init
+[12:45:59] [Info] [debug] Run time error 19: "File or function is not found"
+[12:45:59] [Info] [debug]  PC_Init
+[12:45:59] [Info] [debug]  PC_RegAlias
+[12:45:59] [Info] [debug]  PC_EmulateCommand
+[12:45:59] [Error] File or function is not found
+[12:45:59] [Info] [debug] Run time error 19: "File or function is not found"
+[12:45:59] [Info] [debug]  PC_Init
+[12:45:59] [Info] [debug]  PC_RegAlias
+[12:45:59] [Info] [debug]  PC_EmulateCommand
+[12:45:59] [Info] Legacy Network started on port 7777
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 22 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:49:44] [Info] Loading plugin: crashdetect
+[12:49:44] [Info]   CrashDetect plugin 4.21
+[12:49:44] [Info] Loading plugin: streamer
+[12:49:44] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:49:44] [Info] Loading plugin: sscanf
+[12:49:44] [Info] 
+[12:49:44] [Info]  ===============================
+[12:49:44] [Info] 
+[12:49:44] [Info]       sscanf plugin loaded.     
+[12:49:44] [Info] 
+[12:49:44] [Info]          Version: 2.13.8
+[12:49:44] [Info] 
+[12:49:44] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:49:44] [Info] 
+[12:49:44] [Info]  ===============================
+[12:49:44] [Info] 
+[12:49:44] [Info] Loading plugin: mysql
+[12:49:44] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:49:44] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:49:44] [Info] Loading plugin: pawn-memory
+[12:49:44] [Info] ========================
+[12:49:44] [Info] = Memory access plugin =
+[12:49:44] [Info] =       Made by BigETI =
+[12:49:44] [Info] = Loaded!              =
+[12:49:44] [Info] ========================
+[12:49:44] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:49:44] [Error] Function not registered: PC_EmulateCommand
+[12:49:44] [Error] Function not registered: PC_RegAlias
+[12:49:44] [Error] Function not registered: PC_Init
+[12:49:44] [Info] [debug] Run time error 19: "File or function is not found"
+[12:49:44] [Info] [debug]  PC_Init
+[12:49:44] [Info] [debug]  PC_RegAlias
+[12:49:44] [Info] [debug]  PC_EmulateCommand
+[12:49:44] [Error] File or function is not found
+[12:49:44] [Info] [debug] Run time error 19: "File or function is not found"
+[12:49:44] [Info] [debug]  PC_Init
+[12:49:44] [Info] [debug]  PC_RegAlias
+[12:49:44] [Info] [debug]  PC_EmulateCommand
+[12:49:44] [Error] Unable to start legacy network on port 7777. Port in use?
+[12:49:54] [Info] [debug] Run time error 19: "File or function is not found"
+[12:49:54] [Info] [debug]  PC_Init
+[12:49:54] [Info] [debug]  PC_RegAlias
+[12:49:54] [Info] [debug]  PC_EmulateCommand
+[12:49:54] [Error] File or function is not found
+[12:49:54] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:49:54] [Info] 
+[12:49:54] [Info]  ===============================
+[12:49:54] [Info] 
+[12:49:54] [Info]      sscanf plugin unloaded.    
+[12:49:54] [Info] 
+[12:49:54] [Info]  ===============================
+[12:49:54] [Info] 
+[12:49:54] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 22 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:50:44] [Info] Loading plugin: crashdetect
+[12:50:44] [Info]   CrashDetect plugin 4.21
+[12:50:44] [Info] Loading plugin: streamer
+[12:50:44] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:50:44] [Info] Loading plugin: sscanf
+[12:50:44] [Info] 
+[12:50:44] [Info]  ===============================
+[12:50:44] [Info] 
+[12:50:44] [Info]       sscanf plugin loaded.     
+[12:50:44] [Info] 
+[12:50:44] [Info]          Version: 2.13.8
+[12:50:44] [Info] 
+[12:50:44] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:50:44] [Info] 
+[12:50:44] [Info]  ===============================
+[12:50:44] [Info] 
+[12:50:44] [Info] Loading plugin: mysql
+[12:50:44] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:50:44] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:50:44] [Info] Loading plugin: pawn-memory
+[12:50:44] [Info] ========================
+[12:50:44] [Info] = Memory access plugin =
+[12:50:44] [Info] =       Made by BigETI =
+[12:50:44] [Info] = Loaded!              =
+[12:50:44] [Info] ========================
+[12:50:44] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:50:45] [Error] Function not registered: PC_EmulateCommand
+[12:50:45] [Error] Function not registered: PC_RegAlias
+[12:50:45] [Error] Function not registered: PC_Init
+[12:50:45] [Info] [debug] Run time error 19: "File or function is not found"
+[12:50:45] [Info] [debug]  PC_Init
+[12:50:45] [Info] [debug]  PC_RegAlias
+[12:50:45] [Info] [debug]  PC_EmulateCommand
+[12:50:45] [Error] File or function is not found
+[12:50:45] [Info] [debug] Run time error 19: "File or function is not found"
+[12:50:45] [Info] [debug]  PC_Init
+[12:50:45] [Info] [debug]  PC_RegAlias
+[12:50:45] [Info] [debug]  PC_EmulateCommand
+[12:50:45] [Error] Unable to start legacy network on port 7777. Port in use?
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:51:05] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[12:51:05] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[12:51:05] [Info] Loading plugin: crashdetect
+[12:51:05] [Info]   CrashDetect plugin 4.21
+[12:51:05] [Info] Loading plugin: streamer
+[12:51:05] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:51:05] [Info] Loading plugin: sscanf
+[12:51:05] [Info] 
+[12:51:05] [Info]  ===============================
+[12:51:05] [Info] 
+[12:51:05] [Info]       sscanf plugin loaded.     
+[12:51:05] [Info] 
+[12:51:05] [Info]          Version: 2.13.8
+[12:51:05] [Info] 
+[12:51:05] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:51:05] [Info] 
+[12:51:05] [Info]  ===============================
+[12:51:05] [Info] 
+[12:51:05] [Info] Loading plugin: mysql
+[12:51:05] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:51:05] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:51:05] [Info] Loading plugin: pawn-memory
+[12:51:05] [Info] ========================
+[12:51:05] [Info] = Memory access plugin =
+[12:51:05] [Info] =       Made by BigETI =
+[12:51:05] [Info] = Loaded!              =
+[12:51:05] [Info] ========================
+[12:51:05] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:51:05] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[12:51:05] [Info]  
+[12:51:05] [Info]  
+[12:51:05] [Info]          ==============================================================
+[12:51:05] [Info]          |                                                            |
+[12:51:05] [Info]          |                                                            |
+[12:51:05] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[12:51:05] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[12:51:05] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[12:51:05] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[12:51:05] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[12:51:05] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[12:51:05] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[12:51:05] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[12:51:05] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[12:51:05] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[12:51:05] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:51:05] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:51:05] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[12:51:05] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[12:51:05] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[12:51:05] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[12:51:05] [Info]          |                                                            |
+[12:51:05] [Info]          |                                                            |
+[12:51:05] [Info]          |                      (c) 2021 MPL v1.1                     |
+[12:51:05] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[12:51:05] [Info]          |                                                            |
+[12:51:05] [Info]          |                                                            |
+[12:51:05] [Info]          ==============================================================
+[12:51:05] [Info]  
+[12:51:05] [Info]  
+[12:51:05] [Info]  ========================================== 
+[12:51:05] [Info]  |                                        | 
+[12:51:05] [Info]  |  Missing YSI scriptfiles directories:  | 
+[12:51:05] [Info]  |                                        | 
+[12:51:05] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[12:51:05] [Info]  |      /scriptfiles/YSI/temp/            | 
+[12:51:05] [Info]  |                                        | 
+[12:51:05] [Info]  ========================================== 
+[12:51:05] [Info]  |                                        | 
+[12:51:05] [Info]  |   Generating code, this may take a     | 
+[12:51:05] [Info]  |  little bit of time.  Note that this   | 
+[12:51:05] [Info]  |  code generation works best with the   | 
+[12:51:05] [Info]  |     JIT plugin, which you are not      | 
+[12:51:05] [Info]  |     currently using.  Get it here:     | 
+[12:51:05] [Info]  |                                        | 
+[12:51:05] [Info]  |       https://git.io/jit-plugin        | 
+[12:51:05] [Info]  |                                        | 
+[12:51:05] [Info]  |             Please wait...             | 
+[12:51:06] [Info]  |                                        | 
+[12:51:06] [Info]  |             Done in 448ms!             | 
+[12:51:06] [Info]  |                                        | 
+[12:51:06] [Info]  ========================================== 
+[12:51:06] [Info]  |                                        | 
+[12:51:06] [Info]  | Server:      open.mp 1.1.0.2612 (W)    | 
+[12:51:06] [Info]  | Started:     11 Feb 2024 - 12:51:05    | 
+[12:51:06] [Info]  |                                        | 
+[12:51:06] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[12:51:06] [Info]  | Includes:    0.3DL                     | 
+[12:51:06] [Info]  | Codepage:    <none>                    | 
+[12:51:06] [Info]  | Built:       11 Feb 2024 - 12:50:38    | 
+[12:51:06] [Info]  |                                        | 
+[12:51:06] [Info]  | YSI:         v05.09.0982               | 
+[12:51:06] [Info]  | Master:      -1                        | 
+[12:51:06] [Info]  |                                        | 
+[12:51:06] [Info]  | JIT:         <none>                    | 
+[12:51:06] [Info]  | Crashdetect: <found>                   | 
+[12:51:06] [Info]  |                                        | 
+[12:51:06] [Info]  ========================================== 
+[12:51:06] [Info]  
+[12:51:06] [Info]  
+[12:51:06] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:51:06] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:51:06] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:51:06] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:51:06] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[12:51:06] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[12:51:06] [Info]  
+[12:51:06] [Info] --------------------------------------
+[12:51:06] [Info]  Anticheat Nex-AC loaded!
+[12:51:06] [Info]  Anticheat version: 1.9.63
+[12:51:06] [Info]  Author: Nexius
+[12:51:06] [Info] --------------------------------------
+
+[12:51:06] [Info] Server connected to database!
+[12:51:06] [Info] [debug] Long callback execution detected (hang or performance issue)
+[12:51:06] [Info] [debug] AMX backtrace:
+[12:51:06] [Info] [debug] #0 0001a544 in LoadModelSelectionMenu (f_name[]=@01a27c4c "skins.txt") at C:\Users\lucap\Desktop\amberland.ro\pawno\include\mSelection.inc:615
+[12:51:06] [Info] [debug] #1 000be1e0 in public ac_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\gamemodes\amberland.pwn:616
+[12:51:06] [Info] [debug] #2 0006da48 in public Indirection_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\nex-ac.inc:3646
+[12:51:06] [Info] [debug] #3 000396b8 in OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\indirection\indirection.inc:1759
+[12:51:06] [Info] [debug] #4 0003d0a0 in public OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[12:51:06] [Info] [debug] #5 native CallLocalFunction () in Pawn.dll
+[12:51:06] [Info] [debug] #6 0001dd78 in public SSCANF_OnGameModeInit ()  at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Data\y_foreach\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[12:51:06] [Info] [debug] #7 00008150 in public PawnCmd_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\sscanf2.inc:1066
+[12:51:07] [Info] [debug] #8 00000de0 in public ac_AntiCheatGetLastSpawnTime () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\Pawn.CMD.inc:131
+[12:51:07] [Info] Loading server..
+
+[12:51:07] [Error] Unable to start legacy network on port 7777. Port in use?
+[12:51:07] [Warning] Legacy key `hostname` supplied, using `name`
+[12:51:07] [Info] password = ""
+[12:51:07] [Warning] Legacy key `weburl` supplied, using `website`
+[12:51:07] [Info] Server settings successfully loaded.
+[12:51:07] [Info] Houses: 48 loaded
+[12:51:07] [Info] Businesses: 18 loaded
+[12:51:07] [Info] Jobs: 10 loaded
+[12:51:07] [Info] Youtube: 1 channels loaded
+[12:51:07] [Info] Dealership: 65 models loaded
+[12:51:07] [Info] Goal: $1551108
+[12:51:07] [Info] GPS: 6 locations loaded
+[12:51:07] [Info] Factions: 11 loaded
+[12:51:07] [Info] Vehicles: 89 loaded
+[12:51:07] [Warning] Gangzone Y co-ordinates 24.00 and 16.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1132.00 and -1148.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1006.00 and -1018.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1728.00 and -1776.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1462.00 and -1470.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1172.00 and -1188.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1346.00 and -1358.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1468.00 and -1516.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:51:07] [Warning] Gangzone Y co-ordinates -1259.00 and -1267.00 out of order, inverting.
+[12:51:07] [Info] Zones: 21 loaded
+[12:51:07] [Info] Accs models: 99
+[12:51:07] [Info] [MYSQL] Clans: Loaded 1 clans from `clans` table!
+[12:51:07] [Info] ClanHQ: 3
+[12:51:43] [Info] [debug] Run time error 19: "File or function is not found"
+[12:51:43] [Info] [debug]  PC_Init
+[12:51:43] [Info] [debug]  PC_RegAlias
+[12:51:43] [Info] [debug]  PC_EmulateCommand
+[12:51:43] [Error] File or function is not found
+[12:51:43] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:51:43] [Info] 
+[12:51:43] [Info]  ===============================
+[12:51:43] [Info] 
+[12:51:43] [Info]      sscanf plugin unloaded.    
+[12:51:43] [Info] 
+[12:51:43] [Info]  ===============================
+[12:51:43] [Info] 
+[12:51:43] [Info] plugin.mysql: Unloading plugin...
+[12:51:44] [Info] [debug] Run time error 19: "File or function is not found"
+[12:51:44] [Info] [debug]  PC_Init
+[12:51:44] [Info] [debug]  PC_RegAlias
+[12:51:44] [Info] [debug]  PC_EmulateCommand
+[12:51:44] [Error] File or function is not found
+[12:51:44] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:51:44] [Info] 
+[12:51:44] [Info]  ===============================
+[12:51:44] [Info] 
+[12:51:44] [Info]      sscanf plugin unloaded.    
+[12:51:44] [Info] 
+[12:51:44] [Info]  ===============================
+[12:51:44] [Info] 
+[12:51:44] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:52:10] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[12:52:10] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[12:52:10] [Info] Loading plugin: crashdetect
+[12:52:10] [Info]   CrashDetect plugin 4.21
+[12:52:10] [Info] Loading plugin: streamer
+[12:52:10] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:52:10] [Info] Loading plugin: sscanf
+[12:52:10] [Info] 
+[12:52:10] [Info]  ===============================
+[12:52:10] [Info] 
+[12:52:10] [Info]       sscanf plugin loaded.     
+[12:52:10] [Info] 
+[12:52:10] [Info]          Version: 2.13.8
+[12:52:10] [Info] 
+[12:52:10] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:52:10] [Info] 
+[12:52:10] [Info]  ===============================
+[12:52:10] [Info] 
+[12:52:10] [Info] Loading plugin: mysql
+[12:52:10] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:52:10] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:52:10] [Info] Loading plugin: pawn-memory
+[12:52:10] [Info] ========================
+[12:52:10] [Info] = Memory access plugin =
+[12:52:10] [Info] =       Made by BigETI =
+[12:52:10] [Info] = Loaded!              =
+[12:52:10] [Info] ========================
+[12:52:10] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:52:10] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[12:52:10] [Info]  
+[12:52:10] [Info]  
+[12:52:10] [Info]          ==============================================================
+[12:52:10] [Info]          |                                                            |
+[12:52:10] [Info]          |                                                            |
+[12:52:10] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[12:52:10] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[12:52:10] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[12:52:10] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[12:52:10] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[12:52:10] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[12:52:10] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[12:52:10] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[12:52:10] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[12:52:10] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[12:52:10] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:52:10] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:52:10] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[12:52:10] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[12:52:10] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[12:52:10] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[12:52:10] [Info]          |                                                            |
+[12:52:10] [Info]          |                                                            |
+[12:52:10] [Info]          |                      (c) 2021 MPL v1.1                     |
+[12:52:10] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[12:52:10] [Info]          |                                                            |
+[12:52:10] [Info]          |                                                            |
+[12:52:10] [Info]          ==============================================================
+[12:52:10] [Info]  
+[12:52:10] [Info]  
+[12:52:10] [Info]  ========================================== 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  |  Missing YSI scriptfiles directories:  | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[12:52:10] [Info]  |      /scriptfiles/YSI/temp/            | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  ========================================== 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  |   Generating code, this may take a     | 
+[12:52:10] [Info]  |  little bit of time.  Note that this   | 
+[12:52:10] [Info]  |  code generation works best with the   | 
+[12:52:10] [Info]  |     JIT plugin, which you are not      | 
+[12:52:10] [Info]  |     currently using.  Get it here:     | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  |       https://git.io/jit-plugin        | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  |             Please wait...             | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  |             Done in 438ms!             | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  ========================================== 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  | Server:      open.mp 1.1.0.2612 (W)    | 
+[12:52:10] [Info]  | Started:     11 Feb 2024 - 12:52:10    | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[12:52:10] [Info]  | Includes:    0.3DL                     | 
+[12:52:10] [Info]  | Codepage:    <none>                    | 
+[12:52:10] [Info]  | Built:       11 Feb 2024 - 12:50:38    | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  | YSI:         v05.09.0982               | 
+[12:52:10] [Info]  | Master:      -1                        | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  | JIT:         <none>                    | 
+[12:52:10] [Info]  | Crashdetect: <found>                   | 
+[12:52:10] [Info]  |                                        | 
+[12:52:10] [Info]  ========================================== 
+[12:52:10] [Info]  
+[12:52:10] [Info]  
+[12:52:10] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:52:10] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:52:10] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:52:10] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:52:10] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[12:52:10] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[12:52:10] [Info]  
+[12:52:10] [Info] --------------------------------------
+[12:52:10] [Info]  Anticheat Nex-AC loaded!
+[12:52:10] [Info]  Anticheat version: 1.9.63
+[12:52:10] [Info]  Author: Nexius
+[12:52:10] [Info] --------------------------------------
+
+[12:52:11] [Info] Server connected to database!
+[12:52:11] [Info] [debug] Long callback execution detected (hang or performance issue)
+[12:52:11] [Info] [debug] AMX backtrace:
+[12:52:11] [Info] [debug] #0 0001a544 in LoadModelSelectionMenu (f_name[]=@01a27c4c "skins.txt") at C:\Users\lucap\Desktop\amberland.ro\pawno\include\mSelection.inc:615
+[12:52:11] [Info] [debug] #1 000be1e0 in public ac_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\gamemodes\amberland.pwn:616
+[12:52:11] [Info] [debug] #2 0006da48 in public Indirection_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\nex-ac.inc:3646
+[12:52:11] [Info] [debug] #3 000396b8 in OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\indirection\indirection.inc:1759
+[12:52:11] [Info] [debug] #4 0003d0a0 in public OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[12:52:11] [Info] [debug] #5 native CallLocalFunction () in Pawn.dll
+[12:52:11] [Info] [debug] #6 0001dd78 in public SSCANF_OnGameModeInit ()  at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Data\y_foreach\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[12:52:11] [Info] [debug] #7 00008150 in public PawnCmd_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\sscanf2.inc:1066
+[12:52:11] [Info] [debug] #8 00000de0 in public ac_AntiCheatGetLastSpawnTime () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\Pawn.CMD.inc:131
+[12:52:11] [Info] Loading server..
+
+[12:52:11] [Info] Legacy Network started on port 7777
+[12:52:11] [Warning] Legacy key `hostname` supplied, using `name`
+[12:52:11] [Info] password = ""
+[12:52:11] [Warning] Legacy key `weburl` supplied, using `website`
+[12:52:11] [Info] Server settings successfully loaded.
+[12:52:11] [Info] Houses: 48 loaded
+[12:52:11] [Info] Businesses: 18 loaded
+[12:52:11] [Info] Jobs: 10 loaded
+[12:52:11] [Info] Youtube: 1 channels loaded
+[12:52:11] [Info] Dealership: 65 models loaded
+[12:52:11] [Info] Goal: $1551108
+[12:52:12] [Info] GPS: 6 locations loaded
+[12:52:12] [Info] Factions: 11 loaded
+[12:52:12] [Info] Vehicles: 89 loaded
+[12:52:12] [Warning] Gangzone Y co-ordinates 24.00 and 16.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1132.00 and -1148.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1006.00 and -1018.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1728.00 and -1776.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1462.00 and -1470.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1172.00 and -1188.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1346.00 and -1358.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1468.00 and -1516.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:52:12] [Warning] Gangzone Y co-ordinates -1259.00 and -1267.00 out of order, inverting.
+[12:52:12] [Info] Zones: 21 loaded
+[12:52:12] [Info] Accs models: 99
+[12:52:12] [Info] [MYSQL] Clans: Loaded 1 clans from `clans` table!
+[12:52:12] [Info] ClanHQ: 3
+[12:55:04] [Info] [Pawn.CMD] plugin unloaded
+[12:55:04] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:55:04] [Info] 
+[12:55:04] [Info]  ===============================
+[12:55:04] [Info] 
+[12:55:04] [Info]      sscanf plugin unloaded.    
+[12:55:04] [Info] 
+[12:55:04] [Info]  ===============================
+[12:55:04] [Info] 
+[12:55:04] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:55:16] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[12:55:16] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[12:55:16] [Info] Loading plugin: crashdetect
+[12:55:16] [Info]   CrashDetect plugin 4.21
+[12:55:16] [Info] Loading plugin: streamer
+[12:55:16] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:55:16] [Info] Loading plugin: sscanf
+[12:55:16] [Info] 
+[12:55:16] [Info]  ===============================
+[12:55:16] [Info] 
+[12:55:16] [Info]       sscanf plugin loaded.     
+[12:55:16] [Info] 
+[12:55:16] [Info]          Version: 2.13.8
+[12:55:16] [Info] 
+[12:55:16] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:55:16] [Info] 
+[12:55:16] [Info]  ===============================
+[12:55:16] [Info] 
+[12:55:16] [Info] Loading plugin: mysql
+[12:55:16] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:55:16] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:55:16] [Info] Loading plugin: pawn-memory
+[12:55:16] [Info] ========================
+[12:55:16] [Info] = Memory access plugin =
+[12:55:16] [Info] =       Made by BigETI =
+[12:55:16] [Info] = Loaded!              =
+[12:55:16] [Info] ========================
+[12:55:16] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:55:16] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[12:55:16] [Info]  
+[12:55:16] [Info]  
+[12:55:16] [Info]          ==============================================================
+[12:55:16] [Info]          |                                                            |
+[12:55:16] [Info]          |                                                            |
+[12:55:16] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[12:55:16] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[12:55:16] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[12:55:16] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[12:55:16] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[12:55:16] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[12:55:16] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[12:55:16] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[12:55:16] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[12:55:16] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[12:55:16] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:55:16] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:55:17] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[12:55:17] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[12:55:17] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[12:55:17] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[12:55:17] [Info]          |                                                            |
+[12:55:17] [Info]          |                                                            |
+[12:55:17] [Info]          |                      (c) 2021 MPL v1.1                     |
+[12:55:17] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[12:55:17] [Info]          |                                                            |
+[12:55:17] [Info]          |                                                            |
+[12:55:17] [Info]          ==============================================================
+[12:55:17] [Info]  
+[12:55:17] [Info]  
+[12:55:17] [Info]  ========================================== 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  |  Missing YSI scriptfiles directories:  | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[12:55:17] [Info]  |      /scriptfiles/YSI/temp/            | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  ========================================== 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  |   Generating code, this may take a     | 
+[12:55:17] [Info]  |  little bit of time.  Note that this   | 
+[12:55:17] [Info]  |  code generation works best with the   | 
+[12:55:17] [Info]  |     JIT plugin, which you are not      | 
+[12:55:17] [Info]  |     currently using.  Get it here:     | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  |       https://git.io/jit-plugin        | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  |             Please wait...             | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  |             Done in 441ms!             | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  ========================================== 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[12:55:17] [Info]  | Started:     11 Feb 2024 - 12:55:16    | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[12:55:17] [Info]  | Includes:    0.3DL                     | 
+[12:55:17] [Info]  | Codepage:    <none>                    | 
+[12:55:17] [Info]  | Built:       11 Feb 2024 - 12:50:38    | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  | YSI:         v05.09.0982               | 
+[12:55:17] [Info]  | Master:      -1                        | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  | JIT:         <none>                    | 
+[12:55:17] [Info]  | Crashdetect: <found>                   | 
+[12:55:17] [Info]  |                                        | 
+[12:55:17] [Info]  ========================================== 
+[12:55:17] [Info]  
+[12:55:17] [Info]  
+[12:55:17] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:55:17] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:55:17] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:55:17] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:55:17] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[12:55:17] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[12:55:17] [Info]  
+[12:55:17] [Info] --------------------------------------
+[12:55:17] [Info]  Anticheat Nex-AC loaded!
+[12:55:17] [Info]  Anticheat version: 1.9.63
+[12:55:17] [Info]  Author: Nexius
+[12:55:17] [Info] --------------------------------------
+
+[12:55:18] [Info] Server connected to database!
+[12:55:18] [Info] [debug] Long callback execution detected (hang or performance issue)
+[12:55:18] [Info] [debug] AMX backtrace:
+[12:55:18] [Info] [debug] #0 0001a544 in LoadModelSelectionMenu (f_name[]=@01a27c4c "skins.txt") at C:\Users\lucap\Desktop\amberland.ro\pawno\include\mSelection.inc:615
+[12:55:18] [Info] [debug] #1 000be1e0 in public ac_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\gamemodes\amberland.pwn:616
+[12:55:18] [Info] [debug] #2 0006da48 in public Indirection_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\nex-ac.inc:3646
+[12:55:18] [Info] [debug] #3 000396b8 in OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\indirection\indirection.inc:1759
+[12:55:18] [Info] [debug] #4 0003d0a0 in public OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[12:55:18] [Info] [debug] #5 native CallLocalFunction () in Pawn.dll
+[12:55:18] [Info] [debug] #6 0001dd78 in public SSCANF_OnGameModeInit ()  at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Data\y_foreach\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[12:55:18] [Info] [debug] #7 00008150 in public PawnCmd_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\sscanf2.inc:1066
+[12:55:18] [Info] [debug] #8 00000de0 in public ac_AntiCheatGetLastSpawnTime () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\Pawn.CMD.inc:131
+[12:55:18] [Info] Loading server..
+
+[12:55:18] [Info] Legacy Network started on port 7777
+[12:55:18] [Warning] Legacy key `hostname` supplied, using `name`
+[12:55:18] [Info] password = ""
+[12:55:18] [Warning] Legacy key `weburl` supplied, using `website`
+[12:55:18] [Info] Server settings successfully loaded.
+[12:55:18] [Info] Houses: 48 loaded
+[12:55:18] [Info] Businesses: 18 loaded
+[12:55:18] [Info] Jobs: 10 loaded
+[12:55:18] [Info] Youtube: 1 channels loaded
+[12:55:18] [Info] Dealership: 65 models loaded
+[12:55:18] [Info] Goal: $1551108
+[12:55:18] [Info] GPS: 6 locations loaded
+[12:55:18] [Info] Factions: 11 loaded
+[12:55:18] [Info] Vehicles: 89 loaded
+[12:55:19] [Warning] Gangzone Y co-ordinates 24.00 and 16.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1132.00 and -1148.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1006.00 and -1018.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1728.00 and -1776.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1462.00 and -1470.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1172.00 and -1188.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1346.00 and -1358.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1468.00 and -1516.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:55:19] [Warning] Gangzone Y co-ordinates -1259.00 and -1267.00 out of order, inverting.
+[12:55:19] [Info] Zones: 21 loaded
+[12:55:19] [Info] Accs models: 99
+[12:55:19] [Info] [MYSQL] Clans: Loaded 1 clans from `clans` table!
+[12:55:19] [Info] ClanHQ: 3
+[12:55:27] [Info] [Pawn.CMD] plugin unloaded
+[12:55:27] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[12:55:27] [Info] 
+[12:55:27] [Info]  ===============================
+[12:55:27] [Info] 
+[12:55:27] [Info]      sscanf plugin unloaded.    
+[12:55:27] [Info] 
+[12:55:27] [Info]  ===============================
+[12:55:27] [Info] 
+[12:55:27] [Info] plugin.mysql: Unloading plugin...
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[12:57:37] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[12:57:37] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[12:57:37] [Info] Loading plugin: crashdetect
+[12:57:37] [Info]   CrashDetect plugin 4.21
+[12:57:37] [Info] Loading plugin: streamer
+[12:57:37] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:57:37] [Info] Loading plugin: sscanf
+[12:57:37] [Info] 
+[12:57:37] [Info]  ===============================
+[12:57:37] [Info] 
+[12:57:37] [Info]       sscanf plugin loaded.     
+[12:57:37] [Info] 
+[12:57:37] [Info]          Version: 2.13.8
+[12:57:37] [Info] 
+[12:57:37] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[12:57:37] [Info] 
+[12:57:37] [Info]  ===============================
+[12:57:37] [Info] 
+[12:57:37] [Info] Loading plugin: mysql
+[12:57:37] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[12:57:37] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[12:57:37] [Info] Loading plugin: pawn-memory
+[12:57:37] [Info] ========================
+[12:57:37] [Info] = Memory access plugin =
+[12:57:37] [Info] =       Made by BigETI =
+[12:57:37] [Info] = Loaded!              =
+[12:57:37] [Info] ========================
+[12:57:37] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[12:57:37] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[12:57:37] [Info]  
+[12:57:37] [Info]  
+[12:57:37] [Info]          ==============================================================
+[12:57:37] [Info]          |                                                            |
+[12:57:37] [Info]          |                                                            |
+[12:57:37] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[12:57:37] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[12:57:37] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[12:57:37] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[12:57:37] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[12:57:37] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[12:57:37] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[12:57:37] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[12:57:37] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[12:57:37] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[12:57:37] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:57:37] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[12:57:37] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[12:57:37] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[12:57:37] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[12:57:37] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[12:57:37] [Info]          |                                                            |
+[12:57:37] [Info]          |                                                            |
+[12:57:37] [Info]          |                      (c) 2021 MPL v1.1                     |
+[12:57:37] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[12:57:37] [Info]          |                                                            |
+[12:57:37] [Info]          |                                                            |
+[12:57:37] [Info]          ==============================================================
+[12:57:37] [Info]  
+[12:57:37] [Info]  
+[12:57:37] [Info]  ========================================== 
+[12:57:37] [Info]  |                                        | 
+[12:57:37] [Info]  |  Missing YSI scriptfiles directories:  | 
+[12:57:37] [Info]  |                                        | 
+[12:57:37] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[12:57:37] [Info]  |      /scriptfiles/YSI/temp/            | 
+[12:57:37] [Info]  |                                        | 
+[12:57:37] [Info]  ========================================== 
+[12:57:37] [Info]  |                                        | 
+[12:57:37] [Info]  |   Generating code, this may take a     | 
+[12:57:37] [Info]  |  little bit of time.  Note that this   | 
+[12:57:37] [Info]  |  code generation works best with the   | 
+[12:57:37] [Info]  |     JIT plugin, which you are not      | 
+[12:57:37] [Info]  |     currently using.  Get it here:     | 
+[12:57:37] [Info]  |                                        | 
+[12:57:37] [Info]  |       https://git.io/jit-plugin        | 
+[12:57:37] [Info]  |                                        | 
+[12:57:37] [Info]  |             Please wait...             | 
+[12:57:38] [Info]  |                                        | 
+[12:57:38] [Info]  |             Done in 439ms!             | 
+[12:57:38] [Info]  |                                        | 
+[12:57:38] [Info]  ========================================== 
+[12:57:38] [Info]  |                                        | 
+[12:57:38] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[12:57:38] [Info]  | Started:     11 Feb 2024 - 12:57:37    | 
+[12:57:38] [Info]  |                                        | 
+[12:57:38] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[12:57:38] [Info]  | Includes:    0.3DL                     | 
+[12:57:38] [Info]  | Codepage:    <none>                    | 
+[12:57:38] [Info]  | Built:       11 Feb 2024 - 12:50:38    | 
+[12:57:38] [Info]  |                                        | 
+[12:57:38] [Info]  | YSI:         v05.09.0982               | 
+[12:57:38] [Info]  | Master:      -1                        | 
+[12:57:38] [Info]  |                                        | 
+[12:57:38] [Info]  | JIT:         <none>                    | 
+[12:57:38] [Info]  | Crashdetect: <found>                   | 
+[12:57:38] [Info]  |                                        | 
+[12:57:38] [Info]  ========================================== 
+[12:57:38] [Info]  
+[12:57:38] [Info]  
+[12:57:38] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:57:38] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:57:38] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[12:57:38] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[12:57:38] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[12:57:38] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[12:57:38] [Info]  
+[12:57:38] [Info] --------------------------------------
+[12:57:38] [Info]  Anticheat Nex-AC loaded!
+[12:57:38] [Info]  Anticheat version: 1.9.63
+[12:57:38] [Info]  Author: Nexius
+[12:57:38] [Info] --------------------------------------
+
+[12:57:39] [Info] Server connected to database!
+[12:57:39] [Info] [debug] Long callback execution detected (hang or performance issue)
+[12:57:39] [Info] [debug] AMX backtrace:
+[12:57:39] [Info] [debug] #0 0001a544 in LoadModelSelectionMenu (f_name[]=@01a27c4c "skins.txt") at C:\Users\lucap\Desktop\amberland.ro\pawno\include\mSelection.inc:615
+[12:57:39] [Info] [debug] #1 000be1e0 in public ac_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\gamemodes\amberland.pwn:616
+[12:57:39] [Info] [debug] #2 0006da48 in public Indirection_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\nex-ac.inc:3646
+[12:57:39] [Info] [debug] #3 000396b8 in OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\indirection\indirection.inc:1759
+[12:57:39] [Info] [debug] #4 0003d0a0 in public OnScriptInit@E () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Coding\y_hooks\..\y_cgen\y_cgen_impl.inc:157
+[12:57:39] [Info] [debug] #5 native CallLocalFunction () in Pawn.dll
+[12:57:39] [Info] [debug] #6 0001dd78 in public SSCANF_OnGameModeInit ()  at C:\Users\lucap\Desktop\amberland.ro\pawno\include\YSI_Data\y_foreach\..\..\YSI_Core\y_core\y_scriptinit_impl.inc:1900
+[12:57:39] [Info] [debug] #7 00008150 in public PawnCmd_OnGameModeInit () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\sscanf2.inc:1066
+[12:57:39] [Info] [debug] #8 00000de0 in public ac_AntiCheatGetLastSpawnTime () at C:\Users\lucap\Desktop\amberland.ro\pawno\include\Pawn.CMD.inc:131
+[12:57:39] [Info] Loading server..
+
+[12:57:39] [Info] Legacy Network started on port 7777
+[12:57:39] [Warning] Legacy key `hostname` supplied, using `name`
+[12:57:39] [Info] password = ""
+[12:57:39] [Warning] Legacy key `weburl` supplied, using `website`
+[12:57:39] [Info] Server settings successfully loaded.
+[12:57:39] [Info] Houses: 48 loaded
+[12:57:39] [Info] Businesses: 18 loaded
+[12:57:39] [Info] Jobs: 10 loaded
+[12:57:39] [Info] Youtube: 1 channels loaded
+[12:57:39] [Info] Dealership: 65 models loaded
+[12:57:39] [Info] Goal: $1551108
+[12:57:39] [Info] GPS: 6 locations loaded
+[12:57:39] [Info] Factions: 11 loaded
+[12:57:40] [Info] Vehicles: 89 loaded
+[12:57:40] [Warning] Gangzone Y co-ordinates 24.00 and 16.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1132.00 and -1148.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1006.00 and -1018.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1728.00 and -1776.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1612.00 and -1660.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1462.00 and -1470.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1172.00 and -1188.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1346.00 and -1358.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1468.00 and -1516.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1559.00 and -1607.00 out of order, inverting.
+[12:57:40] [Warning] Gangzone Y co-ordinates -1259.00 and -1267.00 out of order, inverting.
+[12:57:40] [Info] Zones: 21 loaded
+[12:57:40] [Info] Accs models: 99
+[12:57:40] [Info] [MYSQL] Clans: Loaded 1 clans from `clans` table!
+[12:57:40] [Info] ClanHQ: 3
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[00:04:15] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[00:04:15] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[00:04:15] [Info] Loading plugin: crashdetect
+[00:04:15] [Info]   CrashDetect plugin 4.21
+[00:04:15] [Info] Loading plugin: streamer
+[00:04:15] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[00:04:15] [Info] Loading plugin: sscanf
+[00:04:15] [Info] 
+[00:04:15] [Info]  ===============================
+[00:04:15] [Info] 
+[00:04:15] [Info]       sscanf plugin loaded.     
+[00:04:15] [Info] 
+[00:04:15] [Info]          Version: 2.13.8
+[00:04:15] [Info] 
+[00:04:15] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[00:04:15] [Info] 
+[00:04:15] [Info]  ===============================
+[00:04:15] [Info] 
+[00:04:15] [Info] Loading plugin: mysql
+[00:04:15] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[00:04:15] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[00:04:15] [Info] Loading plugin: pawn-memory
+[00:04:15] [Info] ========================
+[00:04:15] [Info] = Memory access plugin =
+[00:04:15] [Info] =       Made by BigETI =
+[00:04:15] [Info] = Loaded!              =
+[00:04:15] [Info] ========================
+[00:04:15] [Info] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.4.0) and include (3.3.6) versions
+[00:04:15] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[00:04:15] [Error] Function not registered: PC_EmulateCommand
+[00:04:15] [Error] Function not registered: PC_RegAlias
+[00:04:15] [Error] Function not registered: PC_Init
+[00:04:15] [Info] [debug] Run time error 19: "File or function is not found"
+[00:04:15] [Info] [debug]  PC_Init
+[00:04:15] [Info] [debug]  PC_RegAlias
+[00:04:15] [Info] [debug]  PC_EmulateCommand
+[00:04:15] [Error] File or function is not found
+[00:04:15] [Info] [debug] Run time error 19: "File or function is not found"
+[00:04:15] [Info] [debug]  PC_Init
+[00:04:15] [Info] [debug]  PC_RegAlias
+[00:04:15] [Info] [debug]  PC_EmulateCommand
+[00:04:15] [Info] Legacy Network started on port 7777
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[23:09:37] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[23:09:37] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[23:09:37] [Info] Loading plugin: crashdetect
+[23:09:37] [Info]   CrashDetect plugin 4.21
+[23:09:37] [Info] Loading plugin: streamer
+[23:09:37] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:09:37] [Info] Loading plugin: sscanf
+[23:09:37] [Info] 
+[23:09:37] [Info]  ===============================
+[23:09:37] [Info] 
+[23:09:37] [Info]       sscanf plugin loaded.     
+[23:09:37] [Info] 
+[23:09:37] [Info]          Version: 2.13.8
+[23:09:37] [Info] 
+[23:09:37] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[23:09:37] [Info] 
+[23:09:37] [Info]  ===============================
+[23:09:37] [Info] 
+[23:09:37] [Info] Loading plugin: mysql
+[23:09:37] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[23:09:37] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[23:09:37] [Info] Loading plugin: pawn-memory
+[23:09:37] [Info] ========================
+[23:09:37] [Info] = Memory access plugin =
+[23:09:37] [Info] =       Made by BigETI =
+[23:09:37] [Info] = Loaded!              =
+[23:09:37] [Info] ========================
+[23:09:38] [Info] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.4.0) and include (3.3.6) versions
+[23:09:38] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[23:09:38] [Error] Function not registered: PC_EmulateCommand
+[23:09:38] [Error] Function not registered: PC_RegAlias
+[23:09:38] [Error] Function not registered: PC_Init
+[23:09:38] [Info] [debug] Run time error 19: "File or function is not found"
+[23:09:38] [Info] [debug]  PC_Init
+[23:09:38] [Info] [debug]  PC_RegAlias
+[23:09:38] [Info] [debug]  PC_EmulateCommand
+[23:09:38] [Error] File or function is not found
+[23:09:38] [Info] [debug] Run time error 19: "File or function is not found"
+[23:09:38] [Info] [debug]  PC_Init
+[23:09:38] [Info] [debug]  PC_RegAlias
+[23:09:38] [Info] [debug]  PC_EmulateCommand
+[23:09:38] [Info] Legacy Network started on port 7777
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\dane\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[22:32:03] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[22:32:03] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[22:32:03] [Info] Loading plugin: crashdetect
+[22:32:03] [Info]   CrashDetect plugin 4.21
+[22:32:03] [Info] Loading plugin: streamer
+[22:32:03] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:32:03] [Info] Loading plugin: sscanf
+[22:32:03] [Info] 
+[22:32:03] [Info]  ===============================
+[22:32:03] [Info] 
+[22:32:03] [Info]       sscanf plugin loaded.     
+[22:32:03] [Info] 
+[22:32:03] [Info]          Version: 2.13.8
+[22:32:03] [Info] 
+[22:32:03] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[22:32:03] [Info] 
+[22:32:03] [Info]  ===============================
+[22:32:03] [Info] 
+[22:32:03] [Info] Loading plugin: mysql
+[22:32:04] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[22:32:04] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[22:32:04] [Info] Loading plugin: pawn-memory
+[22:32:04] [Info] ========================
+[22:32:04] [Info] = Memory access plugin =
+[22:32:04] [Info] =       Made by BigETI =
+[22:32:04] [Info] = Loaded!              =
+[22:32:04] [Info] ========================
+[22:32:04] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[22:32:04] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[22:32:04] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[22:32:04] [Info]  
+[22:32:04] [Info]  
+[22:32:04] [Info]          ==============================================================
+[22:32:04] [Info]          |                                                            |
+[22:32:04] [Info]          |                                                            |
+[22:32:04] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[22:32:04] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[22:32:04] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[22:32:04] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[22:32:04] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[22:32:04] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[22:32:04] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[22:32:04] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[22:32:04] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[22:32:04] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[22:32:04] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:32:04] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:32:04] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[22:32:04] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[22:32:04] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[22:32:04] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[22:32:04] [Info]          |                                                            |
+[22:32:04] [Info]          |                                                            |
+[22:32:04] [Info]          |                      (c) 2021 MPL v1.1                     |
+[22:32:04] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[22:32:04] [Info]          |                                                            |
+[22:32:04] [Info]          |                                                            |
+[22:32:04] [Info]          ==============================================================
+[22:32:04] [Info]  
+[22:32:04] [Info]  
+[22:32:04] [Info]  ========================================== 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  |  Missing YSI scriptfiles directories:  | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[22:32:04] [Info]  |      /scriptfiles/YSI/temp/            | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  ========================================== 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  |   Generating code, this may take a     | 
+[22:32:04] [Info]  |  little bit of time.  Note that this   | 
+[22:32:04] [Info]  |  code generation works best with the   | 
+[22:32:04] [Info]  |     JIT plugin, which you are not      | 
+[22:32:04] [Info]  |     currently using.  Get it here:     | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  |       https://git.io/jit-plugin        | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  |             Please wait...             | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  |             Done in 464ms!             | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  ========================================== 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[22:32:04] [Info]  | Started:     12 Mar 2024 - 22:32:04    | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[22:32:04] [Info]  | Includes:    0.3DL                     | 
+[22:32:04] [Info]  | Codepage:    <none>                    | 
+[22:32:04] [Info]  | Built:       12 Mar 2024 - 22:31:35    | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  | YSI:         v05.09.0982               | 
+[22:32:04] [Info]  | Master:      -1                        | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  | JIT:         <none>                    | 
+[22:32:04] [Info]  | Crashdetect: <found>                   | 
+[22:32:04] [Info]  |                                        | 
+[22:32:04] [Info]  ========================================== 
+[22:32:04] [Info]  
+[22:32:04] [Info]  
+[22:32:04] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[22:32:04] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[22:32:04] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[22:32:04] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[22:32:04] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[22:32:04] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[22:32:04] [Info]  
+[22:32:04] [Info] --------------------------------------
+[22:32:04] [Info]  Anticheat Nex-AC loaded!
+[22:32:04] [Info]  Anticheat version: 1.9.63
+[22:32:04] [Info]  Author: Nexius
+[22:32:04] [Info] --------------------------------------
+
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\dane\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[22:37:02] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[22:37:02] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[22:37:02] [Info] Loading plugin: crashdetect
+[22:37:02] [Info]   CrashDetect plugin 4.21
+[22:37:02] [Info] Loading plugin: streamer
+[22:37:02] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:37:02] [Info] Loading plugin: sscanf
+[22:37:02] [Info] 
+[22:37:02] [Info]  ===============================
+[22:37:02] [Info] 
+[22:37:02] [Info]       sscanf plugin loaded.     
+[22:37:02] [Info] 
+[22:37:02] [Info]          Version: 2.13.8
+[22:37:02] [Info] 
+[22:37:02] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[22:37:02] [Info] 
+[22:37:02] [Info]  ===============================
+[22:37:02] [Info] 
+[22:37:02] [Info] Loading plugin: mysql
+[22:37:02] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:02] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[22:37:02] [Info] Loading plugin: pawn-memory
+[22:37:02] [Info] ========================
+[22:37:02] [Info] = Memory access plugin =
+[22:37:02] [Info] =       Made by BigETI =
+[22:37:02] [Info] = Loaded!              =
+[22:37:02] [Info] ========================
+[22:37:02] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[22:37:02] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[22:37:02] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[22:37:02] [Info]  
+[22:37:02] [Info]  
+[22:37:02] [Info]          ==============================================================
+[22:37:02] [Info]          |                                                            |
+[22:37:02] [Info]          |                                                            |
+[22:37:02] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[22:37:02] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[22:37:02] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[22:37:02] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[22:37:02] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[22:37:02] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[22:37:02] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[22:37:02] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[22:37:02] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[22:37:02] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[22:37:02] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:37:02] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[22:37:02] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[22:37:02] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[22:37:02] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[22:37:02] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[22:37:02] [Info]          |                                                            |
+[22:37:02] [Info]          |                                                            |
+[22:37:02] [Info]          |                      (c) 2021 MPL v1.1                     |
+[22:37:02] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[22:37:02] [Info]          |                                                            |
+[22:37:02] [Info]          |                                                            |
+[22:37:02] [Info]          ==============================================================
+[22:37:02] [Info]  
+[22:37:02] [Info]  
+[22:37:02] [Info]  ========================================== 
+[22:37:02] [Info]  |                                        | 
+[22:37:02] [Info]  |  Missing YSI scriptfiles directories:  | 
+[22:37:02] [Info]  |                                        | 
+[22:37:02] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[22:37:02] [Info]  |      /scriptfiles/YSI/temp/            | 
+[22:37:02] [Info]  |                                        | 
+[22:37:02] [Info]  ========================================== 
+[22:37:02] [Info]  |                                        | 
+[22:37:02] [Info]  |   Generating code, this may take a     | 
+[22:37:02] [Info]  |  little bit of time.  Note that this   | 
+[22:37:02] [Info]  |  code generation works best with the   | 
+[22:37:02] [Info]  |     JIT plugin, which you are not      | 
+[22:37:02] [Info]  |     currently using.  Get it here:     | 
+[22:37:02] [Info]  |                                        | 
+[22:37:02] [Info]  |       https://git.io/jit-plugin        | 
+[22:37:02] [Info]  |                                        | 
+[22:37:02] [Info]  |             Please wait...             | 
+[22:37:03] [Info]  |                                        | 
+[22:37:03] [Info]  |             Done in 468ms!             | 
+[22:37:03] [Info]  |                                        | 
+[22:37:03] [Info]  ========================================== 
+[22:37:03] [Info]  |                                        | 
+[22:37:03] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[22:37:03] [Info]  | Started:     12 Mar 2024 - 22:37:02    | 
+[22:37:03] [Info]  |                                        | 
+[22:37:03] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[22:37:03] [Info]  | Includes:    0.3DL                     | 
+[22:37:03] [Info]  | Codepage:    <none>                    | 
+[22:37:03] [Info]  | Built:       12 Mar 2024 - 22:31:35    | 
+[22:37:03] [Info]  |                                        | 
+[22:37:03] [Info]  | YSI:         v05.09.0982               | 
+[22:37:03] [Info]  | Master:      -1                        | 
+[22:37:03] [Info]  |                                        | 
+[22:37:03] [Info]  | JIT:         <none>                    | 
+[22:37:03] [Info]  | Crashdetect: <found>                   | 
+[22:37:03] [Info]  |                                        | 
+[22:37:03] [Info]  ========================================== 
+[22:37:03] [Info]  
+[22:37:03] [Info]  
+[22:37:03] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[22:37:03] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[22:37:03] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[22:37:03] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[22:37:03] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[22:37:03] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[22:37:03] [Info]  
+[22:37:03] [Info] --------------------------------------
+[22:37:03] [Info]  Anticheat Nex-AC loaded!
+[22:37:03] [Info]  Anticheat version: 1.9.63
+[22:37:03] [Info]  Author: Nexius
+[22:37:03] [Info] --------------------------------------
+
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\dane\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[20:31:05] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[20:31:05] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[20:31:05] [Info] Loading plugin: crashdetect
+[20:31:05] [Info]   CrashDetect plugin 4.21
+[20:31:05] [Info] Loading plugin: streamer
+[20:31:05] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:31:05] [Info] Loading plugin: sscanf
+[20:31:05] [Info] 
+[20:31:05] [Info]  ===============================
+[20:31:05] [Info] 
+[20:31:05] [Info]       sscanf plugin loaded.     
+[20:31:05] [Info] 
+[20:31:05] [Info]          Version: 2.13.8
+[20:31:05] [Info] 
+[20:31:05] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[20:31:05] [Info] 
+[20:31:05] [Info]  ===============================
+[20:31:05] [Info] 
+[20:31:05] [Info] Loading plugin: mysql
+[20:31:05] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[20:31:05] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[20:31:05] [Info] Loading plugin: pawn-memory
+[20:31:05] [Info] ========================
+[20:31:05] [Info] = Memory access plugin =
+[20:31:05] [Info] =       Made by BigETI =
+[20:31:05] [Info] = Loaded!              =
+[20:31:05] [Info] ========================
+[20:31:05] [Info] *** Streamer Plugin: The plugin version (0x295) is older than the include file version (0x296) for this script. The plugin might need to be updated to the latest version.
+[20:31:05] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:31:05] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:31:05] [Info]  
+[20:31:05] [Info]  
+[20:31:05] [Info]          ==============================================================
+[20:31:05] [Info]          |                                                            |
+[20:31:05] [Info]          |                                                            |
+[20:31:05] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[20:31:05] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[20:31:05] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[20:31:05] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[20:31:05] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[20:31:05] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[20:31:05] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[20:31:05] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[20:31:05] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[20:31:05] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[20:31:05] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:31:05] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:31:05] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[20:31:05] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[20:31:05] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[20:31:05] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[20:31:05] [Info]          |                                                            |
+[20:31:05] [Info]          |                                                            |
+[20:31:05] [Info]          |                      (c) 2021 MPL v1.1                     |
+[20:31:05] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[20:31:05] [Info]          |                                                            |
+[20:31:05] [Info]          |                                                            |
+[20:31:05] [Info]          ==============================================================
+[20:31:05] [Info]  
+[20:31:05] [Info]  
+[20:31:05] [Info]  ========================================== 
+[20:31:05] [Info]  |                                        | 
+[20:31:05] [Info]  |  Missing YSI scriptfiles directories:  | 
+[20:31:05] [Info]  |                                        | 
+[20:31:05] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[20:31:05] [Info]  |      /scriptfiles/YSI/temp/            | 
+[20:31:05] [Info]  |                                        | 
+[20:31:05] [Info]  ========================================== 
+[20:31:05] [Info]  |                                        | 
+[20:31:05] [Info]  |   Generating code, this may take a     | 
+[20:31:05] [Info]  |  little bit of time.  Note that this   | 
+[20:31:05] [Info]  |  code generation works best with the   | 
+[20:31:05] [Info]  |     JIT plugin, which you are not      | 
+[20:31:05] [Info]  |     currently using.  Get it here:     | 
+[20:31:05] [Info]  |                                        | 
+[20:31:05] [Info]  |       https://git.io/jit-plugin        | 
+[20:31:05] [Info]  |                                        | 
+[20:31:05] [Info]  |             Please wait...             | 
+[20:31:06] [Info]  |                                        | 
+[20:31:06] [Info]  |             Done in 456ms!             | 
+[20:31:06] [Info]  |                                        | 
+[20:31:06] [Info]  ========================================== 
+[20:31:06] [Info]  |                                        | 
+[20:31:06] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[20:31:06] [Info]  | Started:     15 Mar 2024 - 20:31:05    | 
+[20:31:06] [Info]  |                                        | 
+[20:31:06] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[20:31:06] [Info]  | Includes:    0.3DL                     | 
+[20:31:06] [Info]  | Codepage:    <none>                    | 
+[20:31:06] [Info]  | Built:       15 Mar 2024 - 20:30:56    | 
+[20:31:06] [Info]  |                                        | 
+[20:31:06] [Info]  | YSI:         v05.09.0982               | 
+[20:31:06] [Info]  | Master:      -1                        | 
+[20:31:06] [Info]  |                                        | 
+[20:31:06] [Info]  | JIT:         <none>                    | 
+[20:31:06] [Info]  | Crashdetect: <found>                   | 
+[20:31:06] [Info]  |                                        | 
+[20:31:06] [Info]  ========================================== 
+[20:31:06] [Info]  
+[20:31:06] [Info]  
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\dane\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[20:06:28] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[20:06:28] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[20:06:28] [Info] Loading plugin: crashdetect
+[20:06:28] [Info]   CrashDetect plugin 4.21
+[20:06:28] [Info] Loading plugin: streamer
+[20:06:28] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:06:28] [Info] Loading plugin: sscanf
+[20:06:28] [Info] 
+[20:06:28] [Info]  ===============================
+[20:06:28] [Info] 
+[20:06:28] [Info]       sscanf plugin loaded.     
+[20:06:28] [Info] 
+[20:06:28] [Info]          Version: 2.13.8
+[20:06:28] [Info] 
+[20:06:28] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[20:06:28] [Info] 
+[20:06:28] [Info]  ===============================
+[20:06:28] [Info] 
+[20:06:28] [Info] Loading plugin: mysql
+[20:06:28] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[20:06:28] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[20:06:28] [Info] Loading plugin: pawn-memory
+[20:06:28] [Info] ========================
+[20:06:28] [Info] = Memory access plugin =
+[20:06:28] [Info] =       Made by BigETI =
+[20:06:28] [Info] = Loaded!              =
+[20:06:28] [Info] ========================
+[20:06:29] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:06:29] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:06:29] [Info]  
+[20:06:29] [Info]  
+[20:06:29] [Info]          ==============================================================
+[20:06:29] [Info]          |                                                            |
+[20:06:29] [Info]          |                                                            |
+[20:06:29] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[20:06:29] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[20:06:29] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[20:06:29] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[20:06:29] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[20:06:29] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[20:06:29] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[20:06:29] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[20:06:29] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[20:06:29] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[20:06:29] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:06:29] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:06:29] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[20:06:29] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[20:06:29] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[20:06:29] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[20:06:29] [Info]          |                                                            |
+[20:06:29] [Info]          |                                                            |
+[20:06:29] [Info]          |                      (c) 2021 MPL v1.1                     |
+[20:06:29] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[20:06:29] [Info]          |                                                            |
+[20:06:29] [Info]          |                                                            |
+[20:06:29] [Info]          ==============================================================
+[20:06:29] [Info]  
+[20:06:29] [Info]  
+[20:06:29] [Info]  ========================================== 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  |  Missing YSI scriptfiles directories:  | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[20:06:29] [Info]  |      /scriptfiles/YSI/temp/            | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  ========================================== 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  |   Generating code, this may take a     | 
+[20:06:29] [Info]  |  little bit of time.  Note that this   | 
+[20:06:29] [Info]  |  code generation works best with the   | 
+[20:06:29] [Info]  |     JIT plugin, which you are not      | 
+[20:06:29] [Info]  |     currently using.  Get it here:     | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  |       https://git.io/jit-plugin        | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  |             Please wait...             | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  |             Done in 326ms!             | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  ========================================== 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[20:06:29] [Info]  | Started:     20 Mar 2024 - 20:06:29    | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[20:06:29] [Info]  | Includes:    0.3DL                     | 
+[20:06:29] [Info]  | Codepage:    <none>                    | 
+[20:06:29] [Info]  | Built:       20 Mar 2024 - 20:05:48    | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  | YSI:         v05.09.0982               | 
+[20:06:29] [Info]  | Master:      -1                        | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  | JIT:         <none>                    | 
+[20:06:29] [Info]  | Crashdetect: <found>                   | 
+[20:06:29] [Info]  |                                        | 
+[20:06:29] [Info]  ========================================== 
+[20:06:29] [Info]  
+[20:06:29] [Info]  
+[20:06:29] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[20:06:29] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[20:06:29] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[20:06:29] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[20:06:29] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[20:06:29] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[20:06:29] [Info]  
+[20:06:29] [Info] --------------------------------------
+[20:06:29] [Info]  Anticheat Nex-AC loaded!
+[20:06:29] [Info]  Anticheat version: 1.9.63
+[20:06:29] [Info]  Author: Nexius
+[20:06:29] [Info] --------------------------------------
+
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\dane\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[20:23:36] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[20:23:37] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[20:23:37] [Info] Loading plugin: streamer
+[20:23:37] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:23:37] [Info] Loading plugin: sscanf
+[20:23:37] [Info] 
+[20:23:37] [Info]  ===============================
+[20:23:37] [Info] 
+[20:23:37] [Info]       sscanf plugin loaded.     
+[20:23:37] [Info] 
+[20:23:37] [Info]          Version: 2.13.8
+[20:23:37] [Info] 
+[20:23:37] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[20:23:37] [Info] 
+[20:23:37] [Info]  ===============================
+[20:23:37] [Info] 
+[20:23:37] [Info] Loading plugin: mysql
+[20:23:37] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[20:23:37] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[20:23:37] [Info] Loading plugin: pawn-memory
+[20:23:37] [Info] ========================
+[20:23:37] [Info] = Memory access plugin =
+[20:23:37] [Info] =       Made by BigETI =
+[20:23:37] [Info] = Loaded!              =
+[20:23:37] [Info] ========================
+[20:23:37] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:23:37] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:23:37] [Info]  
+[20:23:37] [Info]  
+[20:23:37] [Info]          ==============================================================
+[20:23:37] [Info]          |                                                            |
+[20:23:37] [Info]          |                                                            |
+[20:23:37] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[20:23:37] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[20:23:37] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[20:23:37] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[20:23:37] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[20:23:37] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[20:23:37] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[20:23:37] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[20:23:37] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[20:23:37] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[20:23:37] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:23:37] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:23:37] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[20:23:37] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[20:23:37] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[20:23:37] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[20:23:37] [Info]          |                                                            |
+[20:23:37] [Info]          |                                                            |
+[20:23:37] [Info]          |                      (c) 2021 MPL v1.1                     |
+[20:23:37] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[20:23:37] [Info]          |                                                            |
+[20:23:37] [Info]          |                                                            |
+[20:23:37] [Info]          ==============================================================
+[20:23:37] [Info]  
+[20:23:37] [Info]  
+[20:23:37] [Info]  ========================================== 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  |  Missing YSI scriptfiles directories:  | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[20:23:37] [Info]  |      /scriptfiles/YSI/temp/            | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  ========================================== 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  |   Generating code, this may take a     | 
+[20:23:37] [Info]  |  little bit of time.  Note that this   | 
+[20:23:37] [Info]  |  code generation works best with the   | 
+[20:23:37] [Info]  |     JIT plugin, which you are not      | 
+[20:23:37] [Info]  |     currently using.  Get it here:     | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  |       https://git.io/jit-plugin        | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  |             Please wait...             | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  |             Done in 366ms!             | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  ========================================== 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[20:23:37] [Info]  | Started:     18 Apr 2024 - 20:23:37    | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[20:23:37] [Info]  | Includes:    0.3DL                     | 
+[20:23:37] [Info]  | Codepage:    <none>                    | 
+[20:23:37] [Info]  | Built:       17 Apr 2024 - 22:01:55    | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  | YSI:         v05.09.0982               | 
+[20:23:37] [Info]  | Master:      -1                        | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  | JIT:         <none>                    | 
+[20:23:37] [Info]  | Crashdetect: <none>                    | 
+[20:23:37] [Info]  |                                        | 
+[20:23:37] [Info]  ========================================== 
+[20:23:37] [Info]  
+[20:23:37] [Info]  
+[20:23:37] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[20:23:37] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[20:23:37] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[20:23:37] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[20:23:37] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[20:23:37] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[20:23:37] [Info]  
+[20:23:37] [Info] --------------------------------------
+[20:23:37] [Info]  Anticheat Nex-AC loaded!
+[20:23:37] [Info]  Anticheat version: 1.9.63
+[20:23:37] [Info]  Author: Nexius
+[20:23:37] [Info] --------------------------------------
+
+[20:23:38] [Info] [!] Server failed to connect to database!
+[20:23:38] [Info] Loading server..
+
+[20:23:38] [Info] Legacy Network started on port 7777
+[20:23:38] [Info] [Pawn.CMD] plugin unloaded
+[20:23:38] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[20:23:38] [Info] 
+[20:23:38] [Info]  ===============================
+[20:23:38] [Info] 
+[20:23:38] [Info]      sscanf plugin unloaded.    
+[20:23:38] [Info] 
+[20:23:38] [Info]  ===============================
+[20:23:38] [Info] 
+[20:23:38] [Info] plugin.mysql: Unloading plugin...
+[20:23:38] [Info] plugin.mysql: Plugin unloaded.
+[20:23:38] [Info] ========================
+[20:23:38] [Info] = Memory access plugin =
+[20:23:38] [Info] =       Made by BigETI =
+[20:23:38] [Info] = Unloaded!            =
+[20:23:38] [Info] ========================
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.2.0.2670) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component pawncmd.dll
+	Successfully loaded component Pawn.CMD (0.3.4.0) with UID a03b47c907a96c29
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 23 component(s) from C:\Users\lucap\Desktop\amberland.ro\dane\components
+Executing Server Config...
+Parsing unknown legacy option long_call_time
+[20:23:45] [Info] [Pawn.CMD] plugin v3.4.0 loading...
+[20:23:45] [Info] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | open.mp | 2016 - 2023
+    |-----------------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 17:25:09
+    |----------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD/tree/omp
+
+[20:23:45] [Info] Loading plugin: streamer
+[20:23:45] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:23:45] [Info] Loading plugin: sscanf
+[20:23:45] [Info] 
+[20:23:45] [Info]  ===============================
+[20:23:45] [Info] 
+[20:23:45] [Info]       sscanf plugin loaded.     
+[20:23:45] [Info] 
+[20:23:45] [Info]          Version: 2.13.8
+[20:23:45] [Info] 
+[20:23:45] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[20:23:45] [Info] 
+[20:23:45] [Info]  ===============================
+[20:23:45] [Info] 
+[20:23:45] [Info] Loading plugin: mysql
+[20:23:45] [Info]  >> plugin.mysql: R41-4 successfully loaded.
+[20:23:45] [Error] Skipping legacy plugin 'pawncmd'; There is an open.mp compatible version you can find here: https://github.com/katursis/Pawn.CMD/releases , make sure to download x.x.x-omp version.
+[20:23:45] [Info] Loading plugin: pawn-memory
+[20:23:45] [Info] ========================
+[20:23:45] [Info] = Memory access plugin =
+[20:23:45] [Info] =       Made by BigETI =
+[20:23:45] [Info] = Loaded!              =
+[20:23:45] [Info] ========================
+[20:23:45] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:23:45] [Info] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[20:23:45] [Info]  
+[20:23:45] [Info]  
+[20:23:45] [Info]          ==============================================================
+[20:23:45] [Info]          |                                                            |
+[20:23:45] [Info]          |                                                            |
+[20:23:45] [Info]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[20:23:45] [Info]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[20:23:45] [Info]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[20:23:45] [Info]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[20:23:45] [Info]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[20:23:45] [Info]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[20:23:45] [Info]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[20:23:45] [Info]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[20:23:45] [Info]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[20:23:45] [Info]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[20:23:45] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:23:45] [Info]          |           Y:::::Y                    S:::::S   I::::I      |
+[20:23:45] [Info]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[20:23:45] [Info]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[20:23:45] [Info]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[20:23:45] [Info]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[20:23:45] [Info]          |                                                            |
+[20:23:45] [Info]          |                                                            |
+[20:23:45] [Info]          |                      (c) 2021 MPL v1.1                     |
+[20:23:45] [Info]          |            Alex "Y_Less" Cole and contributors.            |
+[20:23:45] [Info]          |                                                            |
+[20:23:45] [Info]          |                                                            |
+[20:23:45] [Info]          ==============================================================
+[20:23:45] [Info]  
+[20:23:45] [Info]  
+[20:23:45] [Info]  ========================================== 
+[20:23:45] [Info]  |                                        | 
+[20:23:45] [Info]  |  Missing YSI scriptfiles directories:  | 
+[20:23:45] [Info]  |                                        | 
+[20:23:45] [Info]  |      /scriptfiles/YSI/fixes/           | 
+[20:23:45] [Info]  |      /scriptfiles/YSI/temp/            | 
+[20:23:45] [Info]  |                                        | 
+[20:23:45] [Info]  ========================================== 
+[20:23:45] [Info]  |                                        | 
+[20:23:45] [Info]  |   Generating code, this may take a     | 
+[20:23:45] [Info]  |  little bit of time.  Note that this   | 
+[20:23:45] [Info]  |  code generation works best with the   | 
+[20:23:45] [Info]  |     JIT plugin, which you are not      | 
+[20:23:45] [Info]  |     currently using.  Get it here:     | 
+[20:23:45] [Info]  |                                        | 
+[20:23:45] [Info]  |       https://git.io/jit-plugin        | 
+[20:23:45] [Info]  |                                        | 
+[20:23:45] [Info]  |             Please wait...             | 
+[20:23:46] [Info]  |                                        | 
+[20:23:46] [Info]  |             Done in 365ms!             | 
+[20:23:46] [Info]  |                                        | 
+[20:23:46] [Info]  ========================================== 
+[20:23:46] [Info]  |                                        | 
+[20:23:46] [Info]  | Server:      open.mp 1.2.0.2670 (W)    | 
+[20:23:46] [Info]  | Started:     18 Apr 2024 - 20:23:45    | 
+[20:23:46] [Info]  |                                        | 
+[20:23:46] [Info]  | Compiler:    3.10.10 (Windows)         | 
+[20:23:46] [Info]  | Includes:    0.3DL                     | 
+[20:23:46] [Info]  | Codepage:    <none>                    | 
+[20:23:46] [Info]  | Built:       17 Apr 2024 - 22:01:55    | 
+[20:23:46] [Info]  |                                        | 
+[20:23:46] [Info]  | YSI:         v05.09.0982               | 
+[20:23:46] [Info]  | Master:      -1                        | 
+[20:23:46] [Info]  |                                        | 
+[20:23:46] [Info]  | JIT:         <none>                    | 
+[20:23:46] [Info]  | Crashdetect: <none>                    | 
+[20:23:46] [Info]  |                                        | 
+[20:23:46] [Info]  ========================================== 
+[20:23:46] [Info]  
+[20:23:46] [Info]  
+[20:23:46] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[20:23:46] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[20:23:46] [Warning] Deprecated console variable "rcon", use "rcon.enable" instead.
+[20:23:46] [Warning] Legacy key `rcon` supplied, using `rcon.enable`
+[20:23:46] [Warning] Deprecated console variable "lagcompmode", use "game.lag_compensation_mode" instead.
+[20:23:46] [Warning] Deprecated console variable "bind", use "network.bind" instead.
+[20:23:46] [Info]  
+[20:23:46] [Info] --------------------------------------
+[20:23:46] [Info]  Anticheat Nex-AC loaded!
+[20:23:46] [Info]  Anticheat version: 1.9.63
+[20:23:46] [Info]  Author: Nexius
+[20:23:46] [Info] --------------------------------------
+
+[20:23:46] [Info] [!] Server failed to connect to database!
+[20:23:46] [Info] Loading server..
+
+[20:23:46] [Info] Legacy Network started on port 7777
+[20:23:46] [Info] [Pawn.CMD] plugin unloaded
+[20:23:46] [Info] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[20:23:46] [Info] 
+[20:23:46] [Info]  ===============================
+[20:23:46] [Info] 
+[20:23:46] [Info]      sscanf plugin unloaded.    
+[20:23:46] [Info] 
+[20:23:46] [Info]  ===============================
+[20:23:46] [Info] 
+[20:23:46] [Info] plugin.mysql: Unloading plugin...
+[20:23:46] [Info] plugin.mysql: Plugin unloaded.
+[20:23:46] [Info] ========================
+[20:23:46] [Info] = Memory access plugin =
+[20:23:46] [Info] =       Made by BigETI =
+[20:23:46] [Info] = Unloaded!            =
+[20:23:46] [Info] ========================
